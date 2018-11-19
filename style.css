@@ -26,10 +26,20 @@ body{
     color: white;
    
 }
+.button:hover{
+    opacity: 0.8;
+}
+.equal{
+    background-color:white;
+    color: black;
+}
 #tex{
     width:367px;
    padding: 20px;
    margin: 10px 0px;
-   color:darkred;
+   color:rgb(0, 0, 0);
    font-size: 25px;
+   background-color:rgb(255, 255, 255);
+   box-shadow: -5px 0px 10px rgba(174, 174, 174, 0.3);
+   border: none;
 }
