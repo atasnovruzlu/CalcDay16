@@ -22,8 +22,8 @@ function back(){
 
 
 
-    var bleep=new Audio();
-    bleep.src="chop.mp3";
+var bleep=new Audio();
+bleep.src="chop.mp3";
 
 function saund(){
     bleep.play();
